@@ -1,0 +1,17 @@
+My Associate id:
+845161
+Other team members:
+845160,845162,845142
+TeamLead:
+845161
+My Role in team:
+1.To develop json file,contact us component,and gift card service
+My development files:
+1.contactus.component
+2.db.json
+3.gift-card.service
+
+I was strong in:
+1.Html
+2.Css
+3.Creating component
